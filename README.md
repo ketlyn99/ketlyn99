@@ -15,7 +15,7 @@ Estou começando minha jornada no mundo da tecnologia, e acredito que o aprendiz
 
 ---
 ## 📊 GitHub Stats
-ketlyn99=compact
+
 <p align="center">
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=ketlyn99&theme=tokyonight&hide_title=false" />
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ketlyn99&theme=tokyonight" />
